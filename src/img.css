@@ -5,3 +5,10 @@
     background-repeat: no-repeat;
     background-position: right;
 }
+.img1{
+    width: 688px;
+    height: 842px;
+    background-image: url(./IMAGE\ -\ 2025-11-23T200339.762.png);
+    background-repeat: no-repeat;
+    background-position: start;
+}

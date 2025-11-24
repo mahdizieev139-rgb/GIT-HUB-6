@@ -204,8 +204,17 @@
   .mt-50 {
     margin-top: calc(var(--spacing) * 50);
   }
+  .mt-\[\*40px\] {
+    margin-top: *40px;
+  }
   .mt-\[-0px\] {
     margin-top: -0px;
+  }
+  .mt-\[-30px\] {
+    margin-top: -30px;
+  }
+  .mt-\[-40px\] {
+    margin-top: -40px;
   }
   .mt-\[-50px\] {
     margin-top: -50px;
@@ -221,6 +230,9 @@
   }
   .mt-\[-80px\] {
     margin-top: -80px;
+  }
+  .mt-\[0px\] {
+    margin-top: 0px;
   }
   .mb-0 {
     margin-bottom: calc(var(--spacing) * 0);
